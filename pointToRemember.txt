@@ -1,0 +1,2 @@
+a+b+c acts as (a+b)+c
+as it operates from left to right
