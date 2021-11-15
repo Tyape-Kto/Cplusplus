@@ -27,7 +27,8 @@
           
 5). when you have large double or long or float then it may show in e format which may cause problem at solving problem so i used setprecision(3) remember,
      -printf("%0.9lf",d);
-     
+
+this is just for testing baby in my ass fuck you 
 6).  Note: when on linux - g++ main.cpp -o main.exe
                          - ./main.exe
      this way you can work on terminal
