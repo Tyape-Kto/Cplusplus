@@ -33,3 +33,10 @@
 6).  Note: when on linux - g++ main.cpp -o main.exe
                          - ./main.exe
      this way you can work on terminal
+
+7). [
+      cout << s3 << " " << s3.length();
+      cout << "\nThe results of comparing s1 and s2:" << boolalpha <<  "\ns1 == s2: " << (s1 == s2) << "\ns1 != s2: " << (s1 != s2)<< endl;
+      // here boolalpha makes 0 and 1 to true and false of upcoming condition.
+      
+     ]
