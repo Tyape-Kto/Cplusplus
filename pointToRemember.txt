@@ -45,3 +45,9 @@
      s1.length();
      s1.empty();
      s1.start_with("wha");
+
+9).
+     if (condition) {
+          ...
+     }
+     // you should not put ";" after condition or code inside bracket will execute anyway. cause no action after condition ending by ';'.
