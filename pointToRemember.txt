@@ -25,3 +25,7 @@
 4). endl flushes all the output at once and it is not so important in small application but at large application cout may wait for other information 
           and it may not print at the exact step you want. so it has 2 functionality
           
+5). when you have large double or long or float then it may show in e format which may cause problem at solving problem so i used setprecision(3) remember,
+     -printf("%0.9lf",d);
+     
+6). 
