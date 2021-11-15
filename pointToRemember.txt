@@ -40,3 +40,8 @@
       // here boolalpha makes 0 and 1 to true and false of upcoming condition(not values like 0).
       
      ]
+     
+8).  -string s1;
+     s1.length();
+     s1.empty();
+     s1.start_with("wha");
