@@ -9,5 +9,15 @@
        {0} = which sets default value of num1
 3).
     [
-      
+     #include<iostream>
+     #include<string>
+     #include<iomanip>
+     using std::setprecision;
+     using namespace std;
+     using std::fixed;
+     int main(){
+              int num1, num2;
+              cin >> num1 >> num2; // 2 numbers with space in between are saved in this num1 and num2 instances 
+          }
+     
     ]
