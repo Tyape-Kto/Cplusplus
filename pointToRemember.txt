@@ -46,6 +46,7 @@
      s1.length();
      s1.empty();
      s1.start_with("wha");
+     s2.ends_with("dh");
 
 9).
      if (condition) {
