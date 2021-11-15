@@ -45,7 +45,7 @@
 8).  -string s1;
      s1.length();
      s1.empty();
-     s1.start_with("wha");
+     s1.starts_with("wha"); // these works on c++ version 20 not before those
      s2.ends_with("dh");
 
 9).
