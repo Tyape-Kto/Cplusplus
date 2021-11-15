@@ -17,6 +17,7 @@
      using std::fixed;
      int main(){
               int num1, num2;
+              string s;
               cin >> num1 >> num2; // 2 numbers with space in between are saved in this num1 and num2 instances 
           }
      
