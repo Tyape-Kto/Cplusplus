@@ -1,2 +1,13 @@
-a+b+c acts as (a+b)+c
-as it operates from left to right
+1). a+b+c acts as (a+b)+c
+     as it operates from left to right
+
+2). to declare variable,
+    -int num1{0};
+      where, 
+       int = datatype
+       num1 = instance of class int
+       {0} = which sets default value of num1
+3).
+    [
+      
+    ]
