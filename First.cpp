@@ -28,5 +28,9 @@ int main(){
 }
 
 int main(){
-
+  int product{3};
+  while (product <= 100) {
+    product = product * 3;
+    std::cout << product << std::endl;
+  }
 }
