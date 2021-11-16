@@ -63,4 +63,5 @@
 
 10). 
      -cout << (score <=60 ? "Failed" : "Passed");
+     // you can use ?: instead of if/else statement.
      
