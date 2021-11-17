@@ -70,3 +70,7 @@
 
 11). Sentinel-COntrolled Iteration ( when you don't know how many iteration you need to do )
          just stop while loop at perticular input than number of iteration.
+
+12). [
+     static_cast<datatype>(variable); // this static_cast creates the copy of variable and changes it into any datatype you want.
+     ]
