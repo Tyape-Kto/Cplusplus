@@ -62,3 +62,12 @@ int main(){
   
    // when user don't put any value then app crashes, fix it bitch.
 }
+
+
+int main(){
+  int grade{17};
+  int wht{5};
+  cout << static_cast<double>(grade) / wht<< endl;
+  cout << grade / wht;
+  return 0;
+}
