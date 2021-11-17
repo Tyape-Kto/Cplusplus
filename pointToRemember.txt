@@ -25,6 +25,7 @@
               /*
               without fixed flag: 1.23e+09
               with fixed flag: 1230000000.00000
+              you can also do cout.setprecision(2);
               */
           }
      
