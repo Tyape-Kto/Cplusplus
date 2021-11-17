@@ -69,3 +69,4 @@
      // this is called as conditional operator.
 
 11). Sentinel-COntrolled Iteration ( when you don't know how many iteration you need to do )
+         just stop while loop at perticular input than number of iteration.
