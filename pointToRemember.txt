@@ -81,3 +81,5 @@
      static_cast<datatype>(variable); // this static_cast creates the copy of variable and changes it into any datatype you want.
      ]
      
+13). 
+     you can increase value of 
