@@ -5,11 +5,15 @@
 /* this is multi 
 line comment */
 
+
+
 int main(){
   std::cout<< "Welcome to \n";
   std::cout << "C++ world!";
   return 0;
 }
+
+
 
 int main(){
   int num1{0};
@@ -27,10 +31,32 @@ int main(){
   return 0;
 }
 
+
+
 int main(){
   int product{3};
   while (product <= 100) {
     product = product * 3;
     std::cout << product << std::endl;
   }
+}
+
+int main(){
+  int iteration{0};
+  int grade;
+  int total{0};
+  std::cout << "Enter Grade(-1 to end): ";
+  std::cin >> grade;
+  if (grade != -1) {
+    total += grade;
+  }
+  while (grade != -1) {
+    std::cout << "Enter Grade(-1 to end): ";
+    std::cin >> grade;
+    total += grade;
+    iteration += 1;
+  }
+  total++ ;
+  std::cout << "Average Grade: " << total/iteration << std::endl;
+  std::cout << iteration << " " << total;
 }
