@@ -21,6 +21,11 @@
               int num1, num2;
               string s;
               cin >> num1 >> num2; // 2 numbers with space in between are saved in this num1 and num2 instances 
+              cout << setprecision(2) << fixed; // after this all the double have only 2 after decimal place,
+              /*
+              without fixed flag: 1.23e+09
+              with fixed flag: 1230000000.00000
+              */
           }
      
     ]
@@ -74,3 +79,4 @@
 12). [
      static_cast<datatype>(variable); // this static_cast creates the copy of variable and changes it into any datatype you want.
      ]
+     
