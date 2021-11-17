@@ -59,4 +59,6 @@ int main(){
   total++ ;
   std::cout << "Average Grade: " << total/iteration << std::endl;
   std::cout << iteration << " " << total;
+  
+   // when user don't put any value then app crashes, fix it bitch.
 }
