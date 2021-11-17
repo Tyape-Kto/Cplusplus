@@ -1,5 +1,7 @@
 1). a+b+c acts as (a+b)+c
      as it operates from left to right
+    when you divide some integer from integer, you get integer - 17/5 = 3 not 3.something 
+    
 
 2). to declare variable,
     -int num1{0};
