@@ -1,1 +1,5 @@
-whatevers
+In c++, int may be represented by
+    -16 bits (2 bytes) of memory [int] 
+    -32 bits (4 bytes) of memory [long]
+    -64 bits (8 bytes) of memory [long long]
+  
