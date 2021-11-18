@@ -85,9 +85,9 @@
      [
        int main() {
             int grade{1};
-            cout << grade++ << endl;
+            cout << grade++ << endl; // postincrementing, first grade value is used then 1 is added.
             cout << grade << endl;
-            cout << ++grade << endl;
+            cout << ++grade << endl; // preincrementing , first it adds 1 to grade then grade value is used.
             cout << grade;
        }
      ]
