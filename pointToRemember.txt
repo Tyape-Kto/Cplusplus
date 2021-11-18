@@ -82,4 +82,12 @@
      ]
      
 13). 
-     you can increase value of 
+     [
+       int main() {
+            int grade{1};
+            cout << grade++ << endl;
+            cout << grade << endl;
+            cout << ++grade << endl;
+            cout << grade;
+       }
+     ]
