@@ -7,6 +7,6 @@
 2). 
     Number of values depends upon number of bytes used to store that value.
     for eg:
-        4 bytes integer (32 bits) can store : 2**32 possible values, ranging from -2147483648 to +2147483648.
-       you can only store factorial of 20! inside long long of 64 bits, just guess how much may be factorial of 20.
-       
+       4 bytes integer (32 bits) can store : 2**32 possible values, ranging from -2147483648 to +2147483648.
+       you can only store factorial of 20! inside long long of 64 bits, just guess how much may be factorial of 20, so it needs special processing cause arbritary processing not in c++ but python has.
+       we use library to get this feature of storing any long integer, 
